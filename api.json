@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "autocard",
+  "private_key_id": "4f0e9c3d048bc0e8d83be6c8eaf8c82a89b29154",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqRuJOP8lPa78S\npQGv9vnb1Pg5PhlyKJlufGtLuq8ZkhF+XADGMxx7dDLk6n5yh5FNFYswKQrndnWz\nR5ZX0VR+VUYImhry4oDq/AKdTXRfr+JtBPdMTQ00cqciAV4/51HMgYolHpA4NU3e\ngnFbgpXdIqsnZIm7VzG+46zf0YDzoSHX9XL44a/8a8JF2lLSTe3DrAg1O2oJqvMX\n6oAepvhYSgrGQSRdBayPPWw9vQpVqyi5zZZVQAs0x2aTadZxYupVxcgTbLEzElsv\nUERQXaMq0OFqIT+ZUuvc9SBr/MOd1Ua2MsEo+mHNZTVYQws9ZUvXGdFDnWt8Ums3\nY/mt/ppjAgMBAAECggEALlaqAZd0RmvRDNbg1a1Fo+CaSKGwtRN9ZcbwQCSmwDOz\nFQsentGL/8DIlOmHzc086phhT5Lrx7/CGi7yKCXsc5DrRS4DBXREly5L29kXQW8R\nFJAUaKxTWqGVADkVGBjwdtIN8ToXD2TaMyKWjMvF0u87WrYOkXASNpupESPnjuUq\nAqOvLNI+FrmTZ8fNCizapS99rcdOusNj5aS03zTBAvovn5vVIH8uHukgjU0dkzUM\nwnLWFtZPZM1cOKHHRgM09TMCL7GE0BRSrI2vEThFyNZoTUyaLlN01GTypHqFTjGA\nW4cC3EbRVr+OLZIevDemqKS4kr05QVslxQry7hbkWQKBgQDd4XlhH85BH44jZgmf\nA4GyjvSLL251eZLtn5iCeeKxcfudzZzodYhgVQcq19zUIsJG2jMv+DPrru8fpBvp\nAcDbBbBvjYGVTGNXdrcCiNCwAUHHO1RYrg7QIWvB7n2JgveAiwFh4iVmeqUaB1S0\nOGhoWTpCGdvwwPNEo2Tb6WjpPQKBgQDEdfq+obi/PpdXsE0b/O6yg54c4IYkB6UY\naqHnxQoXOF067Cla3FUGyEvv+iBrBCaA72I9dbc+7WWL/bOGaFHv9VMl0L+9KE6p\nON+YlAtVwcrpnSAEmoulOtCe7sKttuxvjreAuzPsW8Qgd6ORDAtb6nRN9igjS2uu\nBJAlv4GMHwKBgHCHqB3AGcUhkd8WIw8IokDDC/eDSMw/qmrlpF2YH4bLPkecPlYP\nNelVdlseO5tDPbDdfVR41yxS/mfXvWgBQaRTUFZjODNWGJQFW2/nn5+EI649wttu\n+4hHSvWCVRzm1UvWNA9GuJ0u2olG6oi0iw9RIaDgqJGD6l0HWWHHETQpAoGALbTA\n/D7Fq4CVVypGFj/XDKMAUvmNW66Ho1GTj0dRHKvZTM8Ko//krCpHOHJ5vkv95TtM\nIL5VPoeee14vuRJmFax+hqq1IP3Spx37LxUqOe5XFdifTVLjMDKpvIARvLZ09VM/\nr+xdnRyQWXlcDW++6Mh3/HdLSULPr3GSU6XlLsMCgYBMbP5fRScsPbdAjS9Dj+YM\nbwWjbdl95pTO8UHUgRVhvLPQ9r59yAm4coJj5CTnVAcvk4os/TmHJEbD5aa33cC6\nS6rFncPyP1FgXEWK7w8w5jgvkvN3lfp/VKpMT0tzgDPDa1YJqq9hIvwc6NH1qt/a\nuRJm1pYK8FaO0hgLJj7wGg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "autocard@autocard.iam.gserviceaccount.com",
+  "client_id": "101761028198057007624",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autocard%40autocard.iam.gserviceaccount.com"
+}
